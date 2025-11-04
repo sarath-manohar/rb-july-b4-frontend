@@ -1,7 +1,7 @@
 import Button from '@mui/material/Button'
 import React from 'react'
 import { Link } from 'react-router-dom'
-import './Landingpage.css';
+import './landingpage.css';
 
 
 function Landingpage() {
